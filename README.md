@@ -11,7 +11,29 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">  </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
+  </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
+  </a> 
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a>
+  <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://rest-assured.io/img/logo-transparent.png" alt="rest-assured" width="40" height="40"/> 
+  </a>
+  <a href="https://appium.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" alt="appium" width="180" height="40"/> 
+  </a>
+</p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yazenhalid&show_icons=true&locale=en&layout=compact" alt="yazenhalid" /></p>
 
